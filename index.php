@@ -50,5 +50,13 @@
         </div>
     </div>
 
+    asdfasdfasdfas
+    forward_static_callfas
+    dfasdfasdfasdf
+    a
+    wdfa
+    spl_autoload_functionsasdfasdffasd
+    ftp_allocsdfasd
+    ftp_allocsdfasdasdfas
 <?php include './footer.php'; ?>
   
